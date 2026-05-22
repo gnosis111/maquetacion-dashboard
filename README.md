@@ -1,0 +1,2 @@
+# maquetacion-dashboard
+html tailwind
